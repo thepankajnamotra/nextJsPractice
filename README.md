@@ -1,2 +1,1 @@
 # nextJsPractice
-hello
